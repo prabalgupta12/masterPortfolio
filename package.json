@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "masterPortfolio",
-  "homepage": "https://prabalgupta12.github.io",
+  "homepage": "https://prabalgupta.com",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
