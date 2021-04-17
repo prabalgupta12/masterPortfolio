@@ -14,7 +14,7 @@ const greeting = {
     "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1pj5jdygIqI5FHv9L5M89evwkzJFJPC--/view?usp=sharing",
-  portfolio_repository: "https://github.com/prabalgupta12/masterPortfolio",
+  portfolio_repository: "https://github.com/prabalgupta12/Portfolio",
 };
 
 const socialMediaLinks = {
