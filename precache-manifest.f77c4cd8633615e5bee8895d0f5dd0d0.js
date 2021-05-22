@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "89a42615195ca26bf87f",
+    "revision": "e98258b13738ba96b0b0",
     "url": "/static/css/main.7a85ad45.chunk.css"
   },
   {
-    "revision": "89a42615195ca26bf87f",
-    "url": "/static/js/main.d046c545.chunk.js"
+    "revision": "e98258b13738ba96b0b0",
+    "url": "/static/js/main.8a784c4a.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -20,6 +20,10 @@ self.__precacheManifest = [
     "url": "/static/media/Agustina.21f233e1.woff"
   },
   {
+    "revision": "ee6539921d713482b8ccd4d0d23961bb",
+    "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
     "url": "/static/media/GoogleSans-Bold.4457817a.ttf"
   },
@@ -28,24 +32,24 @@ self.__precacheManifest = [
     "url": "/static/media/GoogleSans-BoldItalic.90773b61.ttf"
   },
   {
-    "revision": "8d57e4014b18edef070d285746485115",
-    "url": "/static/media/GoogleSans-Medium.8d57e401.ttf"
-  },
-  {
     "revision": "0ecddcdeccb7761ce899aa9ad9f0ac3f",
     "url": "/static/media/GoogleSans-Italic.0ecddcde.ttf"
   },
   {
-    "revision": "b5c77a6aed75cdad9489effd0d5ea411",
-    "url": "/static/media/GoogleSans-Regular.b5c77a6a.ttf"
+    "revision": "8d57e4014b18edef070d285746485115",
+    "url": "/static/media/GoogleSans-Medium.8d57e401.ttf"
   },
   {
     "revision": "8fd3737925e83c87d78a13700ccf9a62",
     "url": "/static/media/GoogleSans-MediumItalic.8fd37379.ttf"
   },
   {
-    "revision": "ee6539921d713482b8ccd4d0d23961bb",
-    "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+    "revision": "b5c77a6aed75cdad9489effd0d5ea411",
+    "url": "/static/media/GoogleSans-Regular.b5c77a6a.ttf"
+  },
+  {
+    "revision": "f8fa36d722fbd96e586553e0a7e4e4a4",
+    "url": "/static/media/Prabal_Gupta.f8fa36d7.jpg"
   },
   {
     "revision": "3b021f8ffcf9f323ea72abc28382e234",
@@ -196,12 +200,12 @@ self.__precacheManifest = [
     "url": "/static/media/fa-brands-400.cccc9d29.woff2"
   },
   {
-    "revision": "c5e0f14f88a828261ba01558ce2bf26f",
-    "url": "/static/media/fa-brands-400.c5e0f14f.woff"
-  },
-  {
     "revision": "5063b105c7646c8043d58c5289f02cca",
     "url": "/static/media/fa-brands-400.5063b105.eot"
+  },
+  {
+    "revision": "c5e0f14f88a828261ba01558ce2bf26f",
+    "url": "/static/media/fa-brands-400.c5e0f14f.woff"
   },
   {
     "revision": "c1a866ec0e04a5e1915b41fcf261457c",
@@ -224,20 +228,20 @@ self.__precacheManifest = [
     "url": "/static/media/fa-brands-400.06147b6c.ttf"
   },
   {
-    "revision": "44d537ab79f921fde5a28b2c1636f397",
-    "url": "/static/media/fa-solid-900.44d537ab.woff2"
-  },
-  {
     "revision": "7b9568e6389b1f8ae0902cd39665fc1e",
     "url": "/static/media/fa-regular-400.7b9568e6.svg"
   },
   {
-    "revision": "333bae208dc363746961b234ff6c2500",
-    "url": "/static/media/fa-solid-900.333bae20.woff"
-  },
-  {
     "revision": "8e4a6dcc692b3887f9f542cd6894d6d4",
     "url": "/static/media/fa-solid-900.8e4a6dcc.eot"
+  },
+  {
+    "revision": "44d537ab79f921fde5a28b2c1636f397",
+    "url": "/static/media/fa-solid-900.44d537ab.woff2"
+  },
+  {
+    "revision": "333bae208dc363746961b234ff6c2500",
+    "url": "/static/media/fa-solid-900.333bae20.woff"
   },
   {
     "revision": "0bff33a5fd7ec390235476b4859747a0",
@@ -252,7 +256,7 @@ self.__precacheManifest = [
     "url": "/static/media/fa-solid-900.c2801fb4.svg"
   },
   {
-    "revision": "b08fe957517f2be8637754871bcd2d59",
+    "revision": "a27b9d85c8ead1814366bda303fb29fc",
     "url": "/index.html"
   }
 ];
